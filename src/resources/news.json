@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 70,
+    "articles": [
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Samantha Subin, Sarah Min",
+    "title": "Stock market today: Live updates  CNBC",
+    "description": "Those moves come after a lackluster first day of trading in August for the S&P 500.",
+    "url": "https://www.cnbc.com/2023/08/01/stockmarkettodayliveupdates.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/1063571691580142933158gettyimages1202297953.jpeg?v=1690983590&w=1920&h=1080",
+    "publishedAt": "20230802T14:22:00Z",
+    "content": "Stocks dove Wednesday after Fitch downgraded the longterm rating for the U.S. and Wall Street assessed the fallout. \r\nThe Dow Jones Industrial Average slid 274 points, or 0.8%. The S&amp;P 500 pulle… [+2072 chars]"
+    },
+    {
+    "source": {
+    "id": "associatedpress",
+    "name": "Associated Press"
+    },
+    "author": "DAVID HAMILTON",
+    "title": "Prepare to flick off your incandescent bulbs for good under new US rules that kicked in this week  The Associated Press",
+    "description": "Thomas Edison's pioneering incandescent light bulb, which cast illumination by heating a filament until it glowed, is fading into history. New federal rules governing the energy efficiency of lighting systems went into full effect Tuesday, effectively ending …",
+    "url": "https://apnews.com/article/incandescentlightbulbledfederalenergyefficiencyrules950ca7bd90453a5bde277f3002e67d83",
+    "urlToImage": "https://dims.apnews.com/dims4/default/498a242/2147483647/strip/true/crop/4536x2552+0+371/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa4%2F9d%2Fe60ccbf1c9ab48267525cbbad6de%2Fb5faf18bf70246128f412f2b3465eff4",
+    "publishedAt": "20230802T13:53:00Z",
+    "content": "SAN FRANCISCO (AP) Get ready to say goodbye to the once ubiquitous incandescent light bulb, pioneered by Thomas Edison more than a century ago. You can thank or blame new federal energy efficiency re… [+3248 chars]"
+    },
+    {
+    "source": {
+    "id": "theverge",
+    "name": "The Verge"
+    },
+    "author": "Jess Weatherbed",
+    "title": "China proposes severe rules to curb internetaddicted minors  The Verge",
+    "description": "The Cyberspace Administration of China (CAC) published draft regulations on Wednesday that would introduce harsh restrictions on mobile phone and internet usage for those under 18.",
+    "url": "https://www.theverge.com/2023/8/2/23817035/chinainternetsmartphoneregulationsminorscurfewaddiction",
+    "urlToImage": "https://cdn.voxcdn.com/thumbor/jGaVcCY71PqW1qtpCLjQ_WEAavE=/0x0:3000x2000/1200x628/filters:focal(1103x1069:1104x1070)/cdn.voxcdn.com/uploads/chorus_asset/file/24825324/1489477192.jpg",
+    "publishedAt": "20230802T13:30:34Z",
+    "content": "China proposes severe rules for internetaddicted minors\r\nChina proposes severe rules for internetaddicted minors\r\n / Teens between 16 and 18 will be restricted to two hours of mobile usage each day… [+2049 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The Guardian"
+    },
+    "author": "Adam Gabbatt",
+    "title": "'Wow': Uber chief startled by US reporter's expensive threemile ride  The Guardian",
+    "description": "Dara Khosrowshahi expresses surprise at Wired journalist’s $51.69 journey to company’s annual product event in New York",
+    "url": "https://www.theguardian.com/technology/2023/aug/02/uberdarakhosrowshahicostridenewyork",
+    "urlToImage": "https://i.guim.co.uk/img/media/5f0e4a2dd6e06fc1ac6a1e978a660ec8fb92a5c9/0_239_7170_4302/master/7170.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlayalign=bottom%2Cleft&overlaywidth=100p&overlaybase64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=66e64495f097e77595e4a3338ef904f2",
+    "publishedAt": "20230802T13:20:00Z",
+    "content": "The chief executive of Uber expressed surprise when an interviewer told him he paid $51.69 for a threemile ride to the companys annual product event in New York.\r\nDara Khosrowshahi, who took over at… [+1573 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "John Rosevear",
+    "title": "Ford's U.S. sales rose nearly 6% in July, but its EVs are still lagging  CNBC",
+    "description": "Demand for Ford pickup trucks and the Bronco SUV offset slumping electric vehicle sales.",
+    "url": "https://www.cnbc.com/2023/08/02/fordussalesrosenearly6percentinjulybutevslag.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/1072520651686077036767gettyimages1243407179AFP_32JU8Q6.jpeg?v=1690982106&w=1920&h=1080",
+    "publishedAt": "20230802T13:15:06Z",
+    "content": "Ford Motor said that its U.S. sales rose 5.9% in July from a year ago, as demand for its pickup trucks and the Bronco SUV more than offset a slump in EV deliveries.\r\nThe Detroit automaker on Wednesda… [+1950 chars]"
+    },
+    {
+    "source": {
+    "id": "usatoday",
+    "name": "USA Today"
+    },
+    "author": ", USA TODAY",
+    "title": "How much money do you need to retire? Most Americans calculate $1.8 million, survey says.  USA TODAY",
+    "description": "Americans, on average, believe they'll need $1.8 million for retirement. Is that realistic, and how would they get there?",
+    "url": "https://www.usatoday.com/story/money/personalfinance/2023/08/02/howmuchmoneyamericansneedforretirement/70507274007/",
+    "urlToImage": "https://www.gannettcdn.com/presto/2019/10/14/USAT/4f89cd75f56a4b69bb9975268426cd05GettyImages1018188310.jpg?auto=webp&crop=2120,1193,x0,y107&format=pjpg&width=1200",
+    "publishedAt": "20230802T13:04:36Z",
+    "content": "Like everything else, the cost of retiring has also risen. \r\nAmericans, on average, believe they will need to save an average of $1.8 million for retirement, compared with an average estimate of $1.7… [+5134 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "YouTube"
+    },
+    "author": null,
+    "title": "Fitch 'vying for credibility' with U.S. rating downgrade, says Moneta CIO Aoifinn Devitt  CNBC Television",
+    "description": null,
+    "url": "https://www.youtube.com/watch?v=dcBlqklpgAg",
+    "urlToImage": null,
+    "publishedAt": "20230802T12:42:46Z",
+    "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The Guardian"
+    },
+    "author": "Dan Milmo",
+    "title": "Twitter sues antihate speech group over 'tens of millions of dollars' in lost advertising  The Guardian",
+    "description": "CCDH dismisses lawsuit for damages saying Elon Musk’s X aims to ‘bully us into silence’",
+    "url": "https://www.theguardian.com/technology/2023/aug/02/twitteraccusesantihatespeechgroupovertensofmillionsofdollarsinlostadvertising",
+    "urlToImage": "https://i.guim.co.uk/img/media/51757074fc046a371df79ffbf142a4f6ec3d4ab7/0_149_3657_2194/master/3657.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlayalign=bottom%2Cleft&overlaywidth=100p&overlaybase64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a7177ac555b5f73106b0eb79dd5234f3",
+    "publishedAt": "20230802T12:31:00Z",
+    "content": "Elon Musks rebranded Twitter has accused an antihate speech group of costing the social media app tens of millions of dollars in revenues after advertisers paused spending on the platform, according… [+8540 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Treasury.gov"
+    },
+    "author": null,
+    "title": "Quarterly Refunding Statement of Assistant Secretary for Financial Markets Josh Frost  Treasury",
+    "description": "WASHINGTON — The U.S. Department of the Treasury is offering $103 billion of Treasury securities to refund approximately $84 billion of privatelyheld Treasury notes and bonds maturing on August 15, 2023. This issuance will raise new cash from private investo…",
+    "url": "https://home.treasury.gov/news/pressreleases/jy1671",
+    "urlToImage": "https://home.treasury.gov/system/files/291/treasurypreview1900x950.jpg",
+    "publishedAt": "20230802T12:30:00Z",
+    "content": "WASHINGTON The U.S. Department of the Treasury is offering $103 billion of Treasury securities to refund approximately $84 billion of privatelyheld Treasury notes and bonds maturing on August 15, 20… [+5921 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "PRNewswire"
+    },
+    "author": null,
+    "title": "ADP National Employment Report: Private Sector Employment Increased by 324,000 Jobs in July; Annual Pay was Up 6.2%  PR Newswire",
+    "description": "/PRNewswire/  Private sector employment increased by 324,000 jobs in July and annual pay was up 6.2 percent yearoveryear, according to the July ADP®...",
+    "url": "https://www.prnewswire.com/newsreleases/adpnationalemploymentreportprivatesectoremploymentincreasedby324000jobsinjulyannualpaywasup62301891458.html",
+    "urlToImage": "https://mma.prnewswire.com/media/1212743/ADP_Research_Institute__Logo.jpg?p=facebook",
+    "publishedAt": "20230802T12:15:00Z",
+    "content": "ROSELAND, N.J., Aug. 2, 2023 /PRNewswire/  Private sector employment increased by 324,000 jobs in July and annual pay was up 6.2 percent yearoveryear, according to the July ADP® National Employme… [+7216 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "SpaceNews"
+    },
+    "author": "Jeff Foust",
+    "title": "Voyager Space and Airbus create commercial space station joint venture  SpaceNews",
+    "description": "Voyager Space is joining forces with Airbus Defence and Space on a joint venture for the development of the Starlab commercial space station.",
+    "url": "https://spacenews.com/voyagerspaceandairbuscreatecommercialspacestationjointventure/",
+    "urlToImage": "https://spacenews.com/wpcontent/uploads/2023/08/starlab.jpg",
+    "publishedAt": "20230802T11:54:52Z",
+    "content": "SEATTLE Voyager Space is joining forces with Airbus Defence and Space on a joint venture for the development of the Starlab commercial space station.\r\nThe companies announced Aug. 2 the creation of a… [+3301 chars]"
+    },
+    {
+    "source": {
+    "id": "axios",
+    "name": "Axios"
+    },
+    "author": "Axios",
+    "title": "Why gas prices are rising  Axios",
+    "description": null,
+    "url": "https://www.axios.com/2023/08/02/gaspricesheatwaveus",
+    "urlToImage": null,
+    "publishedAt": "20230802T11:45:52Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "KSAT San Antonio"
+    },
+    "author": "Associated Press, Rebecca Salinas",
+    "title": "Winning $4 million Mega Millions ticket sold in Central Texas  KSAT San Antonio",
+    "description": "The Mega Millions jackpot is still up for grabs, but a winning $4 million ticket was sold in Central Texas.",
+    "url": "https://www.ksat.com/news/texas/2023/08/02/winning4millionmegamillionsticketsoldincentraltexas/",
+    "urlToImage": "https://res.cloudinary.com/grahammediagroup/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/HLTH6TGEGFAMVKMHCJONUGCQ24.jpg?_a=ATAPphC0",
+    "publishedAt": "20230802T11:43:07Z",
+    "content": "The Mega Millions jackpot is still up for grabs, but a winning $4 million ticket was sold in Central Texas.\r\nThe Hoover Valley Country Store at 7203 Park Road 4 West in Burnet sold a ticket that matc… [+1400 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Yahoo Entertainment"
+    },
+    "author": "TOM MURPHY",
+    "title": "CVS Health turns in betterthanexpected 2Q even as pharmacy pricing, increased care use hurt  Yahoo Finance",
+    "description": "CVS Health topped secondquarter expectations, but the health care giant's profit sank as pricing pressure hurt its drugstores and a jump in care use hit the...",
+    "url": "https://finance.yahoo.com/news/cvshealthturnsbetterexpected112144608.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/wKYFuOksBYTOM.oIndmNLg/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA/https://media.zenfs.com/en/ap_finance_articles_694/5ea021d2b4122ee8be380abd187a404f",
+    "publishedAt": "20230802T11:21:44Z",
+    "content": "CVS Health topped secondquarter expectations, but the health care giant's profit sank as pricing pressure hurt its drugstores and a jump in care use hit the insurance side.\r\nThe company also booked … [+2434 chars]"
+    },
+    {
+    "source": {
+    "id": "bloomberg",
+    "name": "Bloomberg"
+    },
+    "author": "Reade Pickert, Swati Pandey",
+    "title": "BofA Joins Fed in Reversing Recession Call Amid Growing Optimism  Bloomberg",
+    "description": "Economists at Bank of America Corp. scrapped their forecast for a recession in the US, becoming the first large Wall Street bank to officially reverse its call amid growing optimism about the economic outlook.",
+    "url": "https://www.bloomberg.com/news/articles/20230802/bofajoinsfedinreversingrecessioncallamidgrowingoptimism",
+    "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/icsPIffRKTQE/v0/1200x798.jpg",
+    "publishedAt": "20230802T11:20:00Z",
+    "content": "Economists at Bank of America Corp. scrapped their forecast for a recession in the US, becoming the first large Wall Street bank to officially reverse its call amid growing optimism about the economi… [+173 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Amelia Lucas",
+    "title": "Taco Bell owner Yum Brands misses revenue estimates despite soaring KFC sales  CNBC",
+    "description": "Yum Brands restaurant KFC's samestore sales climbed 13%, fueled by demand in China, its largest market.",
+    "url": "https://www.cnbc.com/2023/08/02/yumbrandsyumq22023.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/1068346181612362484437gettyimages1198751148YUMBRANDSEARNS.jpg?v=1690975000&w=1920&h=1080",
+    "publishedAt": "20230802T11:16:40Z",
+    "content": "Yum Brands on Wednesday reported mixed quarterly results as Taco Bell's and Pizza Hut's samestore sales disappointed.\r\nShares of the company fell less than 1% in premarket trading.\r\nHere's what the … [+1436 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Diana Olick",
+    "title": "Mortgage demand from homebuyers drops for the third straight week as interest rates rise  CNBC",
+    "description": "Mortgage applications to purchase a home fell 3% last week compared with the previous week.",
+    "url": "https://www.cnbc.com/2023/08/02/mortgagedemanddropsforthirdstraightweekasinterestratesrise.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/1071586581669760184998gettyimages1437073057029a5674_f1b3c6cee5e74541864abf983a5d7962.jpeg?v=1690974001&w=1920&h=1080",
+    "publishedAt": "20230802T11:00:01Z",
+    "content": "Mortgage rates have been holding at high levels for several weeks now, and that is taking its toll on homebuyers.\r\nThe Mortgage Bankers Association reports the average contract interest rate for 30y… [+1468 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Ramishah Maruf",
+    "title": "MrBeast sues to shut down the ghostkitchen that produced MrBeast Burger  CNN",
+    "description": "YouTuber MrBeast is suing the ghost kitchen behind the MrBeast Burger to stop production of the popular burger, claiming the company is taking advantage of his brand to expand rather than focusing on the quality of the food.",
+    "url": "https://www.cnn.com/2023/08/02/business/mrbeastburgerlawsuit/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230731165043mrbeast2022file.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "20230802T11:00:00Z",
+    "content": "YouTuber MrBeast is suing the ghost kitchen behind MrBeast Burger to stop production of its popular burger, claiming the company is taking advantage of his brand to expand rather than focusing on the… [+4522 chars]"
+    },
+    {
+    "source": {
+    "id": "usatoday",
+    "name": "USA Today"
+    },
+    "author": "Emily DeLetter",
+    "title": "Mega Millions next drawing: At $1.25B, jackpot fourthlargest ever  USA TODAY",
+    "description": "The jackpot currently sits at $1.25 billion ahead of Friday's drawing, the fourthlargest prize in the lottery's history.",
+    "url": "https://www.usatoday.com/story/money/2023/08/02/megamillionsnextdrawing/70511492007/",
+    "urlToImage": "https://www.usatoday.com/gcdn/presto/2023/07/15/PBRE/7567e03c77e545509eeaa7ed20734edd54553FE8815D4E68BB8256998F93D53C.jpeg?crop=4031,2267,x0,y579&width=3200&height=1800&format=pjpg&auto=webp",
+    "publishedAt": "20230802T10:48:06Z",
+    "content": "With no Mega Millions jackpot winners since April, the lottery's grand prize continues to grow, now climbing over $1.2 billion after Tuesday's drawing and inching closer to more alltime records.\r\nAh… [+2744 chars]"
+    },
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": "William Schomberg",
+    "title": "Bank of England caught between inflation fight and recession risk  Reuters UK",
+    "description": "The Bank of England, which looks set to raise interest rates again on Thursday, must weigh up the need to fight an inflation rate running at more than four times its target against the hit to the economy from 13 backtoback rate hikes so far.",
+    "url": "https://www.reuters.com/world/uk/bankenglandcaughtbetweeninflationfightrecessionrisk20230802/",
+    "urlToImage": "https://www.reuters.com/resizer/3aEmtXJ6AId02uEwB2fRtIEVEQ=/1200x628/smart/filters:quality(80)/cloudfrontuseast2.images.arcpublishing.com/reuters/7NAEHJ6XBNOABIKBMZBA4HB6SE.jpg",
+    "publishedAt": "20230802T09:35:00Z",
+    "content": "LONDON, Aug 2 (Reuters)  The Bank of England, which looks set to raise interest rates again on Thursday, must weigh up the need to fight an inflation rate running at more than four times its target … [+4467 chars]"
+    }
+    ]
+    }
